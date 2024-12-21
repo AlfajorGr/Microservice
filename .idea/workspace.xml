@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff00b144-a5b9-402e-9ebc-23de12f5260b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-course.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-eureka.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-gateway.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-student.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/java/com/microservice/config/MicroserviceConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config/src/main/java/com/microservice/config/MicroserviceConfigApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-course/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gaetway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gaetway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-student/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-course.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-course.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-eureka.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-eureka.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-gateway.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config/src/main/resources/configurations/msvc-gateway.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +53,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/selen/OneDrive/Escritorio/Programming/Microservice",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "configurable.group.build"
