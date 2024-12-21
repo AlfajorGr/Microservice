@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff00b144-a5b9-402e-9ebc-23de12f5260b" name="Changes" comment="" />
+    <list default="true" id="ff00b144-a5b9-402e-9ebc-23de12f5260b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-gaetway/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gaetway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gaetway/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +25,11 @@
       </list>
     </option>
   </component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="MavenRunConfiguration" name="microservice-course [org.springframework.boot:spring-boot-maven-plugin:3.4.0:run]" />
-    </enabled-run-configurations>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -34,18 +42,39 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven.microservice-course [org.springframework.boot:spring-boot-maven-plugin:3.4.0:run].executor": "Run",
+    "Maven.microservice-eureka [clean].executor": "Run",
+    "Maven.microservice-eureka [install].executor": "Run",
     "Maven.microservice-eureka [org.springframework.boot:spring-boot-maven-plugin:3.4.0:run].executor": "Run",
     "Maven.microservice-eureka [org.springframework.boot:spring-boot-maven-plugin:3.4.0:start].executor": "Run",
+    "Maven.microservice-gaetway [org.springframework.boot:spring-boot-maven-plugin:3.4.0:run].executor": "Run",
     "Maven.microservice-student [org.springframework.boot:spring-boot-maven-plugin:3.4.0:run].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/selen/OneDrive/Escritorio/Programming/Microservices/springMicroservices",
+    "last_opened_file_path": "C:/Users/selen/OneDrive/Escritorio/Programming/Microservice",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+    "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Microservice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Microservice" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
