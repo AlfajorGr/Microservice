@@ -10,7 +10,7 @@ spring:
     gateway:
       discovery:
         locator:
-          enabled: true
+          enabled: false
       routes:
         - id: students
           uri: http://localhost:8090
@@ -21,13 +21,8 @@ spring:
           predicates:
             - Path=/api/course/**
 
+netflix:
   eureka:
     client:
-      serviceUrl:
-        defaultZone: http://localhost:8761/eureka/  # Asegúrate de que esta URL sea la correcta para tu servidor Eureka
-      fetchRegistry: true
-      registerWithEureka: true
-    instance:
-      hostname: localhost
-      metadataMap:
-        instanceId: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+      service-url:
+        defaultZone: http://localhost:8761/eureka/
